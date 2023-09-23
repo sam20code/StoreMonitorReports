@@ -72,8 +72,8 @@ I created a dictionary business_hours to store the opening and closing times for
 - I created an HTTP response containing the CSV data.
 - I set the content type to 'text/csv'.
 - I configured the response to prompt the user to download the CSV file with the name "store_report.csv".
-
-### `Result`:
+---
+## Result:
 - The script successfully calculates and generates a CSV report for each store's uptime and downtime statistics based on the provided status data, business hours, and time zones.
 - This report can be easily downloaded and used for further analysis.
 
