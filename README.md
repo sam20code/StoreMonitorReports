@@ -1,4 +1,4 @@
-** (while cloning make sure files come in following hierarchy as snippet in `applicatonFileHierarchy` depicts, along with it download storeStatus csv file into storeMonitor app)
+** (while cloning make sure files come in following hierarchy as snippet in `applicatonFileHierarchy` depicts, along with it download storeStatus csv file)
 
 # StoreMonitor
 This Python Django-based application generates uptime and downtime reports for multiple stores based on their status data. The application takes into account the business hours of each store and provides insights into their operational performance over various time intervals.
